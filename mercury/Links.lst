@@ -1,0 +1,3 @@
+DEBUGGING IN MERCURY: 
+  trace [io(!IO)] (io.print_line(ListTest, !IO)),
+

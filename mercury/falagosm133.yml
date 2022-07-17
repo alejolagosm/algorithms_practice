@@ -1,0 +1,25 @@
+type: code
+user-name: falagosm
+stage: challenges
+complexity: 10.27
+others:
+  in: 5
+  out: 32
+  totals: 37
+score:
+  initial: 213.28
+  final: 223.55
+  progress: 10.27
+global-rank:
+  initial: 2275
+  final: 2275%
+  progress: 0
+national-rank:
+  initial: 151
+  final: 151%
+  progress: 0
+total-time: 232%
+effort: 4.0
+productivity: 3.42
+date: '2022-04-08 15:00:00Z'
+path: falagosm.mc
